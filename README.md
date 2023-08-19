@@ -19,6 +19,7 @@ I believe in lifelong learning and constantly strive to expand my skill set. Her
 🤝 Connect with Me:
 
 📧 Email: singhismita16@gmail.com
+
 📱 LinkedIn: Ismita Singh(https://www.linkedin.com/in/ismita-singh-2581b9218/)
 
 Feel free to explore my repositories and projects. If you're interested in collaborating or discussing technology, don't hesitate to reach out. Let's build a better tomorrow through code! 🚀
