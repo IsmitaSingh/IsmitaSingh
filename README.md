@@ -1,5 +1,13 @@
 ### Hi there 👋
 I'm Ismita Singh, a passionate Computer Science and Engineering student currently pursuing my B.Tech degree. I have a strong interest in frontend development and a knack for turning ideas into code.
+
+🔭 Currently
+
+- Studying towards my B.Tech in Computer Science and Engineering at Pranveer Singh Institute of Technology[https://www.psit.ac.in/].
+- Exploring the world of frontend technologies, with a focus on HTML, CSS, JavaScript, and React.
+- Enhancing my proficiency in C++ and diving deeper into the world of Data Structures and Algorithms.
+- Contributing to open source projects to give back to the developer community.
+
 <!--
 **IsmitaSingh/IsmitaSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
