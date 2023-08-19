@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Ismita Singh, a passionate Computer Science and Engineering student currently pursuing my B.Tech degree. I have a strong interest in frontend development and a knack for turning ideas into code.
 <!--
 **IsmitaSingh/IsmitaSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
